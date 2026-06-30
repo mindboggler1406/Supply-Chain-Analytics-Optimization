@@ -2,7 +2,7 @@
 
 > End-to-End Business Intelligence & Supply Chain Analytics Project using Python, Tableau, Forecasting and Optimization.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
 ![Prophet](https://img.shields.io/badge/Forecasting-Prophet-success)
