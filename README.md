@@ -201,26 +201,6 @@ Optimized:
 
 ✔ Increase customer retention efforts
 
-```
-Supply-Chain-Analytics/
-
-│
-├── notebooks/
-│
-├── dashboard/
-│
-├── report/
-│
-├── presentation/
-│
-├── images/
-│
-├── data/
-│
-├── requirements.txt
-│
-└── README.md
-```
 
 ---
 
